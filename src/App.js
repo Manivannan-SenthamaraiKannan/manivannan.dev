@@ -10,7 +10,6 @@ import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">
-      Portfolio is working fine.
       <Navigation />
       {/* Home */}
       <Home />
