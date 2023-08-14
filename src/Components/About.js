@@ -11,7 +11,7 @@ const About = () => {
                         <img src={aboutImg} style={{ borderRadius: '1.7rem' }} className="d-block mx-lg-auto img-fluid" alt="mee" width="700" height="500" loading="lazy" />
                     </div>
                     <div className="col-lg-6">
-                        <h3 style={{ color: "#147efb", fontSize: '1.7rem' }}>About me</h3>
+                        <h3 style={{ color: "#147efb", fontSize: '1.7rem', textTransform: 'uppercase' }}>About me</h3>
                         <h4 className="fw-bold lh-1 mb-3" style={{ textTransform: 'uppercase', textAlign: 'justify' }}>A dedicated Full Stack Developer <br /> based in Bangalore, Karnataka 📍</h4>
                         <p className="lead" style={{ textAlign: 'justify' }}>As a Full Stack Developer, I possess an impressive arsenal of skills in HTML,
                             CSS, JavaScript, React, Tailwind, and SCSS. I excel in designing and maintaining

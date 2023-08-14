@@ -12,7 +12,7 @@ const Skills = () => {
   return (
     <section className="section" id="section">
       <div className="container">
-        <h3 style={{ color: "#147efb", fontSize: '1.7rem', textAlign: 'center' }}>Skills</h3>
+        <h3 style={{ color: "#147efb", fontSize: '1.7rem', textAlign: 'center', textTransform: 'uppercase' }}>Skills</h3>
         <div style={{ paddingTop: '3rem', paddingBottom: '3rem' }}>
           <ul className='d-flex justify-content-evenly align-items-center' style={{ listStyle: 'none', flexWrap: 'wrap' }}>
             <li><img src={html} title="HTML5" alt="skill-icon" /></li>
