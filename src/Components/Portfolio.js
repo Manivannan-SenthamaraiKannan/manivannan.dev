@@ -5,7 +5,7 @@ const Portfolio = () => {
     <section className='portfolio' id='portfolio'>
       <div className='container'>
         <h3 style={{ color: "#147efb", fontSize: '1.8rem', textTransform: 'uppercase' }}>Porfolio</h3>
-        <h4 className="fw-bold lh-1 mb-3" style={{ textAlign: 'left' }}>Each project is a unique piece of development 🧩</h4>
+        <h4 className="fw-bold lh-1 mb-3" style={{ paddingTop: '1.5rem', textAlign: 'left' }}>Each project is a unique piece of development 🧩</h4>
         <div className="my-5">
           <div className="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
             <div className="col-lg-7 p-3 p-lg-5 pt-lg-3">
