@@ -1,26 +1,5 @@
-/* Contact Section */
-.contact-icons {
+.contactSection {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  row-gap: 2rem;
-}
-
-.contact-left {
-  flex-basis: 35%;
-}
-
-.contact-right {
-  flex-basis: 60%;
-}
-
-.contact-left p {
-  margin-top: 30px;
-}
-
-.contact-left p i {
-  color: #ff004f;
-  margin-right: 15px;
-  font-size: 25px;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
