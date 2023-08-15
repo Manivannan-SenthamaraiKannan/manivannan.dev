@@ -1,3 +1,7 @@
+navbar{
+  position: fixed;
+}
+
 /*home*/
 .home-content{
   display: flex;

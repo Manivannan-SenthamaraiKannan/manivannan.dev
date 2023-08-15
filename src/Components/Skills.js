@@ -11,7 +11,7 @@ import expressjs from '../Images/expressjs.png'
 const Skills = () => {
   return (
     <section className="skills" id="skills">
-      <div className="container">
+      <div className="container py-3">
         <h3 style={{ color: "#147efb", fontSize: '1.7rem', textAlign: 'center', textTransform: 'uppercase' }}>Skills</h3>
         <div style={{ paddingTop: '3rem', paddingBottom: '3rem' }}>
           <ul className='d-flex justify-content-evenly align-items-center' style={{ listStyle: 'none', flexWrap: 'wrap' }}>
