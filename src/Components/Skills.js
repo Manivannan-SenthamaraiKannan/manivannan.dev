@@ -10,7 +10,7 @@ import expressjs from '../Images/expressjs.png'
 
 const Skills = () => {
   return (
-    <section className="section" id="section">
+    <section className="skills" id="skills">
       <div className="container">
         <h3 style={{ color: "#147efb", fontSize: '1.7rem', textAlign: 'center', textTransform: 'uppercase' }}>Skills</h3>
         <div style={{ paddingTop: '3rem', paddingBottom: '3rem' }}>

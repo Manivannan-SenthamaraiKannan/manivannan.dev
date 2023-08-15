@@ -35,14 +35,14 @@ const Contact = () => {
                             <div className="form-outline mb-4">
                                 <input type="text" id="form4Example1" className="form-control" placeholder='Name' />
                             </div>
-                            <div class="form-outline mb-4">
+                            <div className="form-outline mb-4">
                                 <input type="email" id="form4Example2" className="form-control" placeholder='Email' />
                             </div>
                             <div className="form-outline mb-4">
                                 <textarea className="form-control" id="form4Example3" rows="4" placeholder='Write your message'></textarea>
                             </div>
 
-                            <button type="submit" class="btn btn-primary btn-block mb-4">Send</button>
+                            <button type="submit" className="btn btn-primary btn-block mb-4">Send</button>
                         </form>
                     </div>
                 </div>
